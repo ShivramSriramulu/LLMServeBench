@@ -1,20 +1,22 @@
 # LLMServeBench
 
+![LLMServeBench](Image.png)
+
 **LLMServeBench** is a benchmarking tool and visualization app designed to evaluate and compare the performance of various Large Language Models (LLMs) for inference workloads. This project helps data scientists and ML engineers analyze model latency, throughput, memory usage, and accuracy metrics across different models and hardware setups.
 
 ---
 
-## Features
+## 🚀 Features
 
-- Benchmarks multiple LLMs on your own hardware or cloud environments.
-- Interactive visualizations using Plotly and Streamlit for easy analysis.
-- Supports comparison of model inference speed, memory consumption, and accuracy.
-- Configurable benchmark parameters.
-- Easy-to-use web app interface for non-technical users.
+- ✅ Benchmarks multiple LLMs on your own hardware or cloud environments
+- 📊 Interactive visualizations using Plotly and Streamlit for easy analysis
+- ⚡ Compare model inference speed, memory consumption, and accuracy
+- ⚙️ Configurable benchmark parameters
+- 🌐 Easy-to-use web app interface for non-technical users
 
 ---
 
-## Demo
+## 📺 Demo
 
 Check out the live demo of LLMServeBench on Streamlit Cloud:
 
@@ -22,7 +24,7 @@ Check out the live demo of LLMServeBench on Streamlit Cloud:
 
 ---
 
-## GitHub Repository
+## 📂 GitHub Repository
 
 Explore the full source code and contribute:
 
@@ -30,7 +32,7 @@ Explore the full source code and contribute:
 
 ---
 
-## Installation
+## 🛠 Installation
 
 1. Clone the repository:
 
