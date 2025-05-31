@@ -1,0 +1,26 @@
+[
+  {
+    "model": "DistilBERT FP32",
+    "latency_ms": 43.92,
+    "size_mb": 265.55,
+    "ram_usage_mb": 1441.26
+  },
+  {
+    "model": "DistilBERT INT8",
+    "latency_ms": 21.83,
+    "size_mb": 66.72,
+    "ram_usage_mb": 1813.94
+  },
+  {
+    "model": "GPT2 (no KV cache)",
+    "latency_ms": 147.27,
+    "size_mb": 497.76,
+    "ram_usage_mb": 0.0
+  },
+  {
+    "model": "GPT2 (KV cache)",
+    "latency_ms": 82.15,
+    "size_mb": 497.76,
+    "ram_usage_mb": 30.25
+  }
+]
